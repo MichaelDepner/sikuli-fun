@@ -9,6 +9,7 @@ dragDrop(Pattern("1491986039973.png").targetOffset(180,126),Pattern("14919860589
 click("1491999452557.png")
 click("1492003238461.png")
 click("1492003254891.png")
+wait(1)
 doubleClick("1492003273858.png")
 doubleClick("1492003300886.png")
 click("1492003345031.png")
